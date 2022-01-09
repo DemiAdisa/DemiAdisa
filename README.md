@@ -1,4 +1,4 @@
-### Hi there, Im Demi👋
+### Hi there, I'm Demi👋
 
 <!--
 **DemiAdisa/DemiAdisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
