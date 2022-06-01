@@ -11,7 +11,7 @@
   - [A simple text game built using Java](https://github.com/DemiAdisa/Project-Hangman)
 
 
-<h2>👨‍💻 Cross Platform Mobile Development Projects:</h2>
+<h2>👨‍💻 Cross-Platform Mobile Development Projects:</h2>
 
 - <b>Spaced Repetition</b>
   - [A Mobile Application built using Flutter](https://github.com/DemiAdisa/Spaced-Repetition)
