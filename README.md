@@ -31,21 +31,21 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  -->
  
- <h2>👨‍💻 iOS Mobile Development Projects:</h2>
+ <h2>🍏 iOS Mobile Development Projects:</h2>
 
 - <b>Spaced Repetition</b>
   - [A Mobile Application built using Flutter](https://github.com/DemiAdisa/Spaced-Repetition)
 - <b>Crypto Maestro</b>
   - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
 
-<h2>👨‍💻 Andriod Mobile Development Projects:</h2>
+<h2>📱 Andriod Mobile Development Projects:</h2>
 
 - <b>Spaced Repetition</b>
   - [A Mobile Application built using Flutter](https://github.com/DemiAdisa/Spaced-Repetition)
 - <b>Crypto Maestro</b>
   - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
 
-<h2>👨‍💻 Web Development Projects:</h2>
+<h2>🕸️ Web Development Projects:</h2>
 
 - <b>Spacestagram</b>
   - [A Web Application built using React.js](https://github.com/DemiAdisa/Spacestagram)
