@@ -3,14 +3,22 @@
 <!-- <br/><a href="https://github.com/DemiAdisa">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>
  -->
  
- <h2>👨‍💻 General Development Projects:</h2>
- - <b>Data Structures and Algorithms Practice (Leetcode)</b>
-  - [Practicing DS & Algos in Java]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/DemiAdisa/LeetCode-Solutions)
-  - 
-<h2>👨‍💻 Mobile Development Projects:</h2>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+ <h2>👨‍💻 General Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (LeetCode)</b>
+  - [Praciting DS & Algos in Java](https://github.com/DemiAdisa/LeetCode-Solutions)
+- <b>Project Hangman</b>
+  - [A simple text game built using Java](https://github.com/DemiAdisa/Project-Hangman)
+
+
+<h2>👨‍💻 Cross Platform Mobile Development Projects:</h2>
+
+- <b>Spaced Repetition</b>
+  - [A Mobile Application built using Flutter](https://github.com/DemiAdisa/Spaced-Repetition)
+- <b>Crypto Maestro</b>
+  - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
+
+<!-- - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
@@ -21,24 +29,27 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ -->
+ 
+ <h2>👨‍💻 iOS Mobile Development Projects:</h2>
+
+- <b>Spaced Repetition</b>
+  - [A Mobile Application built using Flutter](https://github.com/DemiAdisa/Spaced-Repetition)
+- <b>Crypto Maestro</b>
+  - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
+
+<h2>👨‍💻 Andriod Mobile Development Projects:</h2>
+
+- <b>Spaced Repetition</b>
+  - [A Mobile Application built using Flutter](https://github.com/DemiAdisa/Spaced-Repetition)
+- <b>Crypto Maestro</b>
+  - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Spacestagram</b>
+  - [A Web Application built using React.js](https://github.com/DemiAdisa/Spacestagram)
+
 
 <!-- <h2>📺 Popular YouTube Videos</h2>
 
