@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Demi! Here is my Developer Portfolio </h1> 
+<h1>Hi there, I'm Demi and here is my Developer Portfolio!</h1> 
 
 <!-- <br/><a href="https://github.com/DemiAdisa">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>
  -->
