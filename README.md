@@ -17,26 +17,16 @@
   - [A Mobile Application built using Flutter](https://github.com/DemiAdisa/Spaced-Repetition)
 - <b>Crypto Maestro</b>
   - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
+- <b>Demis Trivia Game</b>
+  - [A trivia game built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
 
-<!-- - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- -->
-<!--  
+ 
  <h2>🍏 iOS Mobile Development Projects:</h2>
 
 - <b>Spaced Repetition</b>
   - [A Mobile Application built using Flutter](https://github.com/DemiAdisa/Spaced-Repetition)
 - <b>Crypto Maestro</b>
-  - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro) -->
+  - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
 
 <h2>📱 Andriod Mobile Development Projects:</h2>
 
