@@ -18,7 +18,7 @@
 - <b>Crypto Maestro</b>
   - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
 - <b>Demis Trivia Game</b>
-  - [A trivia game built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
+  - [A trivia game built using Flutter](https://github.com/DemiAdisa/Demis-Trivia-Game)
 
  
  <h2>🍏 iOS Mobile Development Projects:</h2>
