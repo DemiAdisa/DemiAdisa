@@ -6,7 +6,7 @@
  <h2>👨‍💻 General Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode)</b>
-  - [Praciting DS & Algos in Java](https://github.com/DemiAdisa/LeetCode-Solutions)
+  - [Practicing DS & Algos in Java](https://github.com/DemiAdisa/LeetCode-Solutions)
 - <b>Project Hangman</b>
   - [A simple text game built using Java](https://github.com/DemiAdisa/Project-Hangman)
 
