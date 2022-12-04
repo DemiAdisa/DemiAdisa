@@ -17,8 +17,6 @@
   - [A Mobile Application built using Flutter](https://github.com/DemiAdisa/Spaced-Repetition)
 - <b>Crypto Maestro</b>
   - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
-- <b>Demis Trivia Game</b>
-  - [A trivia game built using Flutter](https://github.com/DemiAdisa/Demis-Trivia-Game)
 
 <h2>🕸️ Web Development Projects:</h2>
 
