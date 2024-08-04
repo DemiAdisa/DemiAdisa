@@ -20,7 +20,6 @@
 - <b>Crypto Maestro</b>
   - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
  
-  - 
 
 <h2>🕸️ Web Development Projects:</h2>
 
