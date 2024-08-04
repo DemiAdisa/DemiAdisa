@@ -13,10 +13,14 @@
 
 <h2>📱 Mobile Development Projects:</h2>
 
+- <b>Musical Standoff</b>
+  - [A music trivia based mobile text game](https://github.com/DemiAdisa/musical_standoff)
 - <b>Spaced Repetition</b>
   - [A Mobile Application built using Flutter](https://github.com/DemiAdisa/Spaced-Repetition)
 - <b>Crypto Maestro</b>
   - [A cryptocurrency searcher built with Flutter](https://github.com/DemiAdisa/crypto-maestro)
+ 
+  - 
 
 <h2>🕸️ Web Development Projects:</h2>
 
