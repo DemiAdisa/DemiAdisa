@@ -2,7 +2,12 @@
 
 <!-- <br/><a href="https://github.com/DemiAdisa">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>
  -->
- 
+
+  <h2>🎮 Game Dev Projects:</h2>
+
+- <b>Portfolio</b>
+  - [Game Dev Portfolio](https://demi-adisa.itch.io/)
+  
  <h2>👨‍💻 General Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode)</b>
